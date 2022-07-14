@@ -1,1 +1,13 @@
-[{category:fashion,number:1},{category:fashion,number:2},{category:fashion,number:3},{category:fashion,number:4},{category:fashion,number:5},{category:fashion,number:6},{category:fashion,number:7},{category:fashion,number:8},{category:fashion,number:9},{category:fashion,number:10},{category:fashion,number:11}]
+{
+1:"fashion",
+2:"fashion",
+3:"fashion",
+4:"fashion",
+5:"fashion",
+6:"fashion",
+7:"fashion",
+8:"fashion",
+9:"fashion",
+10:"fashion",
+11:"fashion"
+}
