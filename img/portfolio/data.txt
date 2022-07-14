@@ -1,1 +1,1 @@
-{"1":"fashion","2":"fashion","3":"fashion","4":"fashion","5":"fashion","6":"fashion","7":"fashion","8":"fashion","9":"fashion","10":"fashion","11":"fashion"}
+{"1":"Fashion","2":"Nature","3":"Weddding","4":"Fashion","5":"Nature","6":"Weddding","7":"Fashion","8":"Weddding","9":"Fashion","10":"Nature","11":"Fashion"}
